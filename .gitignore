@@ -1,0 +1,16 @@
+﻿**/.env
+**/.env.*
+!**/.env.example
+**/node_modules/
+**/.venv/
+**/.venv-macos/
+**/venv/
+**/__pycache__/
+**/*.py[cod]
+**/.DS_Store
+**/._*
+**/__MACOSX/
+**/.vite-temp/
+**/*.db
+**/*.sqlite
+**/*.sqlite3
